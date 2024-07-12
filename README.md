@@ -4,6 +4,8 @@ Este projeto é um teste de implementaçào das funcionalidades do Firebase Clou
 
 **Considere a raíz do projeto o diretório functions**
 
+Utilizei uma estratégia simples e fácil de adaptar com routes e services, conforme o crescimento do projeto podemos tomar decisões como organizar em submodulos (apenas reorganizando diretórios, por exemplo), além de ser simples para incluir mais camadas (como repositories ou middlewares).
+
 ## Necessário para rodar:
 
  - Node.js 18+
